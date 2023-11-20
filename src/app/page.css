@@ -1,0 +1,32 @@
+.galadriel_217f8be2-2353 { width: 80% }
+.galadriel_7e328f39-2353 { height: 70% }
+.galadriel_e7e9b140-2353 { padding: 10px }
+.galadriel_70612f1f-2353 { display: grid }
+.galadriel_481ca7c6-2353 { display: flex }
+.galadriel_c25c777a-2353 { justify-content: center }
+.galadriel_3d2707bb-2353 { align-items: center }
+.galadriel_1240bc61-2353 { grid-template-columns: repeat(3, 1fr) }
+.galadriel_353e6c4b-2353 { grid-template-rows: 1fr 2fr 2fr 1fr }
+.galadriel_7146ebb9-2353 { background-color: #C1FAFF }
+.galadriel_1ebe4df6-2353 { background-color: #F9F871 }
+.galadriel_a9f2604b-2353 { background-color: #faae66 }
+.galadriel_6113b9dd-2353 { background-color: #86DB82 }
+.galadriel_e93f58e0-2353 { background-color: #eb9696 }
+.galadriel_c77a0129-2353 { background-color: #7adac8 }
+.galadriel_c2386dca-2353 { border: 1px solid #f88e2b }
+.galadriel_75b4eb7e-2353 { font-family: 'Montserrat', sans-serif }
+.galadriel_d7e5f15e-2353 { font-weight: 400 }
+.galadriel_9207694a-2353 { gap: 10px }
+.galadriel_de2fa024-2353 { box-sizing: border-box }
+.galadriel_4b828eb8-2353 { grid-template-areas: 'head head head' 'nav main main' 'nav content section' 'foot foot foot' }
+.galadriel_5a249bef-2353 { grid-area: head }
+.galadriel_98e69c47-2353 { grid-area: nav }
+.galadriel_cb2e723a-2353 { grid-area: main }
+.galadriel_cef66040-2353 { grid-area: content }
+.galadriel_1e6f7b76-2353 { grid-area: section }
+.galadriel_aa61e895-2353 { grid-area: foot }
+@media screen and  (max-width: 767px) { 
+	.galadriel_fab26ddf-185b-2353 { grid-template-columns: 1fr }
+	.galadriel_abdfe5e7-185b-2353 { grid-template-rows: 10% 30% 30% 10% }
+	.galadriel_3189246c-185b-2353 { grid-template-areas: 'head' 'nav' 'main' 'content' 'section' 'foot' }
+ }
